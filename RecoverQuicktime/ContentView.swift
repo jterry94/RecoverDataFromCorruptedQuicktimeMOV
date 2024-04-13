@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct ContentView: View {
-    @State private var filePath: String = "/Volumes/My%20Passport%20for%20Mac/EclipseApril082024/20240408_111242_L/20240408_111242_L.mov"
+    @State private var filePath: String = "/Volumes/My%20Passport%20for%20Mac/EclipseApril082024/20240408_155422_L/20240408_155422_L.mov"
                 @State private var fileContent: Data?
                 
                 var body: some View {
